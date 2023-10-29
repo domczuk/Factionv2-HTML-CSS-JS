@@ -175,7 +175,7 @@ a {
 .main__background {
     grid-area: background;
     background-color: rgb(173, 173, 232);
-    background-image: url(images/slide01.jpg);
+    background-image: url(assets/slide01.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
